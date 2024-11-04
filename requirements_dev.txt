@@ -9,3 +9,4 @@ mypy
 tox
 flake8
 pytest
+-e .

@@ -3,8 +3,8 @@ import setuptools
 
 __version__ = "0.0.0"
 AUTHER_NAME = "Sathishmahi"
-SRC_REPO = "simple-computervision"
-REPO_NAME = "simple-computervision"
+SRC_REPO = "simple_computervision"
+REPO_NAME = "simple_computervision"
 AUTHER_EMAIL = "sathishmahi433@gmail.com"
 
 with open("README.md",mode="r") as f:
