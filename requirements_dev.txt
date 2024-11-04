@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+numpy
+
+
+### dev lib
+black
+mypy
+tox
+flake8
+pytest
