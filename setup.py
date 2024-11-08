@@ -1,7 +1,7 @@
 import setuptools
 
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 AUTHER_NAME = "Sathishmahi"
 SRC_REPO = "simple_computervision"
 REPO_NAME = "simple_computervision"
